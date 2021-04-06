@@ -11,3 +11,5 @@ C:\Users\tarik\source\repos\FinalProject\Business\obj\Debug\netstandard2.0\Busin
 C:\Users\tarik\source\repos\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\tarik\source\repos\FinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\tarik\source\repos\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\tarik\source\repos\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\tarik\source\repos\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
