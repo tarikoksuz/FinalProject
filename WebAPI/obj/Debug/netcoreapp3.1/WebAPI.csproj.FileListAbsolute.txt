@@ -86,7 +86,6 @@ C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\ru\Micro
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
@@ -136,3 +135,9 @@ C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Business
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
