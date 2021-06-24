@@ -1,8 +1,9 @@
 C:\Users\tarik\source\repos\FinalProject\Core\bin\Debug\netstandard2.0\Core.deps.json
 C:\Users\tarik\source\repos\FinalProject\Core\bin\Debug\netstandard2.0\Core.dll
 C:\Users\tarik\source\repos\FinalProject\Core\bin\Debug\netstandard2.0\Core.pdb
-C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
 C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache

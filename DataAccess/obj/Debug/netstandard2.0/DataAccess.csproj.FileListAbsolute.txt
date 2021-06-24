@@ -3,7 +3,6 @@ C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Dat
 C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
@@ -11,3 +10,5 @@ C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\Dat
 C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
 C:\Users\tarik\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

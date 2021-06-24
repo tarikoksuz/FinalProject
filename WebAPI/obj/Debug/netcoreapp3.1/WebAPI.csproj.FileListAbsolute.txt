@@ -1,8 +1,6 @@
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
-C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
@@ -141,3 +139,7 @@ C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.C
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

@@ -1,7 +1,6 @@
 C:\Users\tarik\source\repos\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
 C:\Users\tarik\source\repos\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.dll
 C:\Users\tarik\source\repos\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
 C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
 C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
@@ -9,3 +8,5 @@ C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entit
 C:\Users\tarik\source\repos\FinalProject\Entities\bin\Debug\netstandard2.0\Core.dll
 C:\Users\tarik\source\repos\FinalProject\Entities\bin\Debug\netstandard2.0\Core.pdb
 C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\tarik\source\repos\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
