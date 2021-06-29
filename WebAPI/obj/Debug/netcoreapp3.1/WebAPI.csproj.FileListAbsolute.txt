@@ -143,3 +143,4 @@ C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.c
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
 C:\Users\tarik\source\repos\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\tarik\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
